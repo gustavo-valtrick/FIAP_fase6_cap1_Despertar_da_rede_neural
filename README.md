@@ -20,6 +20,9 @@
 ## COLAB: 
 - <a href="https://colab.research.google.com/drive/19U-WqYOjLCmZl3YhQJme6AXL-_HV-7Cc#scrollTo=yit0_eGzBT8U/">Colab: CAP 1 - Despertar da rede neural</a>
 
+## VIDEO NO YOUTUBE: 
+- <a href="https://youtu.be/L8nkkPH1pIk">Colab: CAP 1 - Despertar da rede neural</a>
+
 ## 👩‍🏫 Professores:
 ### Tutor(a) 
 - <a href="https://www.linkedin.com/in/lucas-gomes-moreira-15a8452a/">x</a>
